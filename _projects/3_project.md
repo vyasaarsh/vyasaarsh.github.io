@@ -61,7 +61,7 @@ Of course I love to apply tech & finance! This is a huge field, and I love to ex
     </div>
 </div>
 <div class="caption">
-    Detailed popular trading, momentum stratgies.
+    Detailing popular trading, momentum stratgies.
 </div>
 
 Furthermore, I have a video series on how to hypothetically make $1,000,000 with paper trading. <b> I do not have a portfolio where this series is modeled after.</b> This video series can be found [here](https://www.youtube.com/watch?v=PXUnovVYzRo&list=PLHT3ZrWZ1pcS-Ct3DHotXuB9oM7R4ui1x)
