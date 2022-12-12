@@ -27,3 +27,11 @@ Project currently supports the following implementations; Some of these projects
 - [Sampling Methods](https://github.com/SpencerPao/Data_Science/tree/main/Sampling%20Methods)
 - [Visualizations in <b> R </b>](https://github.com/SpencerPao/Data_Science/tree/main/Visualizations_R)
 - [XGBoost](https://github.com/SpencerPao/Data_Science/tree/main/XGBoost)
+
+Natural Language Processing: <b> Python </b>
+- [Question Answering (QA)](https://github.com/SpencerPao/Natural-Language-Processing/tree/main/Question%20Answering%20Modeling)
+- [Transformers](https://github.com/SpencerPao/Natural-Language-Processing/tree/main/Transformers)
+- [Bidirectional Encoder Representations (BERT)](https://github.com/SpencerPao/Natural-Language-Processing/tree/main/BERT)
+- [Named Entity Recognition (NER)](https://github.com/SpencerPao/Natural-Language-Processing/tree/main/Question%20Answering%20Modeling)
+- [Sentiment Analysis](https://github.com/SpencerPao/Natural-Language-Processing/tree/main/Sentiment_Analysis)
+- [Text Preprocessing](https://github.com/SpencerPao/Natural-Language-Processing/tree/main/Text_Preprocessing)
