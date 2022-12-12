@@ -53,6 +53,16 @@ Of course I love to apply tech & finance! This is a huge field, and I love to ex
     Some fundamental analysis and tools to get free financial data.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href = "https://youtu.be/Og6qz82lAQ8">
+        {% include figure.html path="assets/img/Momentum.png" title="Momentum Trading Strategies" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+</div>
+<div class="caption">
+    Detailed popular trading, momentum stratgies.
+</div>
 
 Furthermore, I have a video series on how to hypothetically make $1,000,000 with paper trading. <b> I do not have a portfolio where this series is modeled after.</b> This video series can be found [here](https://www.youtube.com/watch?v=PXUnovVYzRo&list=PLHT3ZrWZ1pcS-Ct3DHotXuB9oM7R4ui1x)
 <div class="row">
