@@ -1,3 +1,7 @@
+# My Personal [website](https://archd3sai.github.io/)
+
+To Start Local Server and testing: python -m http.server
+
 # Spencer's [website](https://spencerpao.github.io/)
 
 Used from the al-folio template mentioned below.
