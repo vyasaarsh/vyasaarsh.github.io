@@ -481,6 +481,7 @@ footer.sticky-bottom {
 
 .projects .container_row {
 display:flex;
+align-items:flex-start;
 	}
 
 @media (max-width:500px){
@@ -489,7 +490,7 @@ display:flex;
 	height: auto; 
 	}
 .projects .container_row {
-	display:block;
+	display:flex;
 	}
 }
 
